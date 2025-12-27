@@ -1,5 +1,5 @@
 <div align="center">
-  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&theme=dark&fontColor=ecf0f1"
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&theme=dark fontColor=ecf0f1" />
   <h1>Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
 </div>
 
