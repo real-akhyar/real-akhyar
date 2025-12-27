@@ -37,11 +37,9 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=real-akhyar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=real-akhyar&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-akhyar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ### 🔝 Top Contributed Repos
