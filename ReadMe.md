@@ -35,9 +35,6 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 
 ---
 
-### 🐍 Activity Tracker
-<img src="https://raw.githubusercontent.com/real-akhyar/real-akhyar/output/snake.svg" alt="Snake animation" width="100%" />
-
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=real-akhyar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -53,8 +50,3 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 </div>
 
 ---
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=real-akhyar&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</div>
