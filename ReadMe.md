@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&color=1a1b26&fontColor=89b4fa" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&theme=ocean&fontColor=89b4fa" />
   <h1>Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
 </div>
 
@@ -35,11 +35,11 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Activity
 <div align="center">
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=real-akhyar&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <br/><br/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=real-akhyar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 </div>
 
 ### 🔝 Top Contributed Repos
