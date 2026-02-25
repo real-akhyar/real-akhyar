@@ -1,6 +1,6 @@
 <div align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&color=24283b&fontColor=a9b1d6" />
-  <h1>Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
+  <h1>Co-Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
 </div>
 
 ### 🚀 About Me
