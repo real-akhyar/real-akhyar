@@ -35,14 +35,6 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 
 ---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=real-akhyar&theme=dark&hide_border=false" alt="GitHub Streak" />
-</div>
 
-### 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=real-akhyar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Contribution Stats" />
-</div>
 
 ---
