@@ -3,14 +3,14 @@
   <h1>Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
 </div>
 
-### 🚀 About Me
+### About Me
 
 I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging the gap between complex AI research and production-ready systems. As the Co-founder and CEO of **[Oryvo AI](https://oryvoai.com)**, I lead a team of innovators building an automated deployment ecosystem for Machine Learning and Large Language Models.
 
-* 🎓 **Education:** BS Software Engineering @ [UET Lahore](https://uet.edu.pk/)
-* 🏗️ **Current Project:** Scaling LLMOps and ML deployment automation at Oryvo.
-* 🧠 **Technical Focus:** Transitioning from rapid "vibe-coded" prototypes to high-availability, scalable AI infrastructure.
-* 🛠️ **Expertise:** ML, LLM-FT, Distributed Systems, and AI Infrastructure.
+*  **Education:** BS Software Engineering @ [UET Lahore](https://uet.edu.pk/)
+*  **Current Project:** Scaling LLMOps and ML deployment automation at Oryvo.
+*  **Technical Focus:** Transitioning from rapid "vibe-coded" prototypes to high-availability, scalable AI infrastructure.
+*  **Expertise:** ML, LLM-FT, Distributed Systems, and AI Infrastructure.
 
 ---
 
