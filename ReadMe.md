@@ -33,8 +33,3 @@ I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging th
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@real.akhyar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceo@oryvoai.com)
 
----
-
-
-
----
