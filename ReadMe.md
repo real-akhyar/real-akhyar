@@ -41,11 +41,3 @@ SECP-registered AI infrastructure company I co-founded and lead. Reached Level 4
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,azure,postgres,redis,git,github&theme=dark" alt="Infra & tools" />
 </p>
----
-
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/real.akhyar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/real-akhyar)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@real.akhyar)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ceo@oryvoai.com)
-
