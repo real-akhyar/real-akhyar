@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b>Akhyar Ahmad</b></h1>
+# 𝗔𝗞𝗛𝗬𝗔𝗥 𝗔𝗛𝗠𝗔𝗗
 
 **Founder & CEO, [Oryvo AI](https://oryvoai.com)** — building [Roptal](https://roptal.com)  
 BS Software Engineering, UET Lahore
