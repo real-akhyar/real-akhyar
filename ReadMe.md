@@ -1,8 +1,8 @@
 <div align="center">
 
-# Akhyar Ahmad
+<h1><b>Akhyar Ahmad</b></h1>
 
-**Founder & CEO, [Oryvo AI](https://oryvoai.com)** — building [Roptal](https://roptal.com)
+**Founder & CEO, [Oryvo AI](https://oryvoai.com)** — building [Roptal](https://roptal.com)  
 BS Software Engineering, UET Lahore
 
 [Portfolio](https://akhyar.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/real-akhyar) &nbsp;·&nbsp; [Email](mailto:ceo@oryvoai.com)
@@ -24,13 +24,13 @@ I'm currently narrowing in on **Reinforcement Learning and Simulation** as my ne
 
 ### Selected work
 
-**[ARMOR — Antimicrobial Resistance Prediction](https://github.com/real-akhyar/ARMOR-Antibiotic-Resistance-Modelling-through-Omics-and-Resistance-gene-analysis)**
+**[ARMOR — Antimicrobial Resistance Prediction](https://github.com/real-akhyar/ARMOR-Antibiotic-Resistance-Modelling-through-Omics-and-Resistance-gene-analysis)**  
 ML models predicting antimicrobial resistance in *K. pneumoniae* from genomic data. First published ML benchmarks for amikacin (0.986 AUC) and fosfomycin resistance in this species. [Preprint (Research Square) →](https://doi.org/10.21203/rs.3.rs-9898333/v2)
 
-**[Roptal](https://roptal.com)**
+**[Roptal](https://roptal.com)**  
 BYOC AI deployment platform — automated infrastructure generation, containerization, model serving, and observability, keeping customer compute and data inside the customer's own cloud.
 
-**[Oryvo AI](https://oryvoai.com)**
+**[Oryvo AI](https://oryvoai.com)**  
 SECP-registered AI infrastructure company I co-founded and lead. Reached Level 4 of Microsoft for Startups ($100K+ in Azure credits) and 3× winner of the AWS Weekend Challenge.
 
 ### Stack
