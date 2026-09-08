@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝗔𝗞𝗛𝗬𝗔𝗥 𝗔𝗛𝗠𝗔𝗗
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Akhyar%20Ahmad&fontSize=60&height=90" alt="Akhyar Ahmad" />
 
 **Founder & CEO, [Oryvo AI](https://oryvoai.com)** — building [Roptal](https://roptal.com)  
 BS Software Engineering, UET Lahore
