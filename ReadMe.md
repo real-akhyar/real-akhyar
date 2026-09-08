@@ -1,30 +1,46 @@
 <div align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Akhyar%20Ahmad&fontSize=70&color=24283b&fontColor=a9b1d6" />
-  <h1>Founder & CEO @ <a href="https://oryvoai.com">Oryvo AI</a></h1>
+
+# Akhyar Ahmad
+
+**Founder & CEO, [Oryvo AI](https://oryvoai.com)** — building [Roptal](https://roptal.com)
+BS Software Engineering, UET Lahore
+
+[Portfolio](https://akhyar.me) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/real-akhyar) &nbsp;·&nbsp; [Email](mailto:ceo@oryvoai.com)
+
 </div>
 
-### About Me
+<br>
 
-I am a self-taught **ML/LLM Engineer** and entrepreneur dedicated to bridging the gap between complex AI research and production-ready systems. As the Co-founder and CEO of **[Oryvo AI](https://oryvoai.com)**, I lead a team of innovators building an automated deployment ecosystem for Machine Learning and Large Language Models.
+I'm self-taught in ML and systems engineering — my default way of learning is to take something apart, rebuild it, and find out what breaks. That's how I ended up leading the architecture behind **Roptal**, Oryvo's BYOC platform for taking ML/LLM workloads from a repo to production without model weights or inference data ever passing through our servers.
 
-*  **Education:** BS Software Engineering @ [UET Lahore](https://uet.edu.pk/)
-*  **Current Project:** Scaling LLMOps and ML deployment automation at Oryvo.
-*  **Technical Focus:** Transitioning from rapid "vibe-coded" prototypes to high-availability, scalable AI infrastructure.
-*  **Expertise:** ML, LLM-FT, Distributed Systems, and AI Infrastructure.
+I'm currently narrowing in on **Reinforcement Learning and Simulation** as my next specialization.
 
----
+### Currently
 
-### 💻 Tech Stack
+- 🚀 Building **[Roptal](https://roptal.com)** — BYOC deployment for ML/LLM workloads
+- 🧬 Finalizing **ARMOR** for submission — antimicrobial-resistance prediction research
+- 🏆 Competing in Kaggle: RSNA Knee Abnormality Detection ($77K prize pool), Biohub Cell Tracking
+- 📚 Starting to specialize in **Reinforcement Learning & Simulation**
 
-**🤖 AI & Machine Learning**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+### Selected work
 
-**⚙️ Backend & Infrastructure**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+**[ARMOR — Antimicrobial Resistance Prediction](https://github.com/real-akhyar/ARMOR-Antibiotic-Resistance-Modelling-through-Omics-and-Resistance-gene-analysis)**
+ML models predicting antimicrobial resistance in *K. pneumoniae* from genomic data. First published ML benchmarks for amikacin (0.986 AUC) and fosfomycin resistance in this species. [Preprint (Research Square) →](https://doi.org/10.21203/rs.3.rs-9898333/v2)
 
-**🛠️ Development & Languages**
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+**[Roptal](https://roptal.com)**
+BYOC AI deployment platform — automated infrastructure generation, containerization, model serving, and observability, keeping customer compute and data inside the customer's own cloud.
 
+**[Oryvo AI](https://oryvoai.com)**
+SECP-registered AI infrastructure company I co-founded and lead. Reached Level 4 of Microsoft for Startups ($100K+ in Azure credits) and 3× winner of the AWS Weekend Challenge.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML stack" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,azure,postgres,redis,git,github&theme=dark" alt="Infra & tools" />
+</p>
 ---
 
 ### 🌐 Socials:
