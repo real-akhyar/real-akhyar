@@ -13,8 +13,21 @@ BS Software Engineering, UET Lahore
 
 I'm self-taught in ML and systems engineering — my default way of learning is to take something apart, rebuild it, and find out what breaks. That's how I ended up leading the architecture behind **Roptal**, Oryvo's BYOC platform for taking ML/LLM workloads from a repo to production without model weights or inference data ever passing through our servers.
 
-- 🏆 3× winner of the AWS Weekend Challenge.
-- 🏆 Kaggle competition silver medalist (Top 3.5%) RSNA Knee Abnormality Detection ($77K prize pool)
+### Achievements
+
+- 🏆 Tech LARPer.
+- 🏆 'A' Grade in DSA & Linear Algebra (97/100) with <=30min preperation [I know I'm goated].
+- 🏆 4× winner of the AWS Weekend Challenge using AI.
+- 🏆 Kaggle competition silver medalist (Top 3.5%) RSNA Knee Abnormality Detection ($77K prize pool) using AI agents.
+
+### Other work
+
+- 🏨 HMS — Hotel Management System. [Own]
+- 🗳️ Election Management System. [Own]
+- 🛢 Election Management System Database. [Own]
+- 📑 DocuMind — RAG based chatbot, upload documents and get answers from those. [Own]
+- 🚚 SwiftEx — Courier Management System. [Partially copied]
+- 🖧 University Network on Cisco Packet Tracer. [Just grabbed from another group and presented]
 
 As my next specialization I'm currently narrowing in on **I'm not gonna tell you xD**
 
@@ -23,6 +36,8 @@ As my next specialization I'm currently narrowing in on **I'm not gonna tell you
 - 🚀 Building **[Roptal](https://roptal.com)** — BYOC deployment for ML/LLM workloads
 - 🧬 Finalizing **ARMOR** for submission — antimicrobial-resistance prediction research
 - 📚 Preparing for mid-exams (5th semester) :(
+- 🧠 Finding a new idea to work on.
+- 📱  Doomscrolling
 
 ### Selected work
 
