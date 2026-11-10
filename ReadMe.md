@@ -13,14 +13,16 @@ BS Software Engineering, UET Lahore
 
 I'm self-taught in ML and systems engineering — my default way of learning is to take something apart, rebuild it, and find out what breaks. That's how I ended up leading the architecture behind **Roptal**, Oryvo's BYOC platform for taking ML/LLM workloads from a repo to production without model weights or inference data ever passing through our servers.
 
-I'm currently narrowing in on **Reinforcement Learning and Simulation** as my next specialization.
+- 🏆 3× winner of the AWS Weekend Challenge.
+- 🏆 Kaggle competition silver medalist (Top 3.5%) RSNA Knee Abnormality Detection ($77K prize pool)
+
+As my next specialization I'm currently narrowing in on **I'm not gonna tell you xD**
 
 ### Currently
 
 - 🚀 Building **[Roptal](https://roptal.com)** — BYOC deployment for ML/LLM workloads
 - 🧬 Finalizing **ARMOR** for submission — antimicrobial-resistance prediction research
-- 🏆 Competing in Kaggle: RSNA Knee Abnormality Detection ($77K prize pool), Biohub Cell Tracking
-- 📚 Starting to specialize in **Reinforcement Learning & Simulation**
+- 📚 Preparing for mid-exams (5th semester) :(
 
 ### Selected work
 
@@ -31,7 +33,7 @@ ML models predicting antimicrobial resistance in *K. pneumoniae* from genomic da
 BYOC AI deployment platform — automated infrastructure generation, containerization, model serving, and observability, keeping customer compute and data inside the customer's own cloud.
 
 **[Oryvo AI](https://oryvoai.com)**  
-SECP-registered AI infrastructure company I co-founded and lead. Reached Level 4 of Microsoft for Startups ($100K+ in Azure credits) and 3× winner of the AWS Weekend Challenge.
+SECP-registered AI infrastructure company I co-founded and lead. Reached Level 4 of Microsoft for Startups ($100K+ in Azure credits) and Claude Startup Program.
 
 ### Stack
 
